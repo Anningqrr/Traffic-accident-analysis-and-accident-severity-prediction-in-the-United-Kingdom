@@ -1,3 +1,0 @@
-Accidents0515.csv filter=lfs diff=lfs merge=lfs -text
-Vehicles0515.csv filter=lfs diff=lfs merge=lfs -text
-data.zip filter=lfs diff=lfs merge=lfs -text
